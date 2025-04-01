@@ -1,0 +1,6 @@
+__pycache__
+*.mp4
+*.pt
+.mypy_cache/
+.venv
+evaluation.md
