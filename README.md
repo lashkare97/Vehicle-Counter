@@ -21,7 +21,7 @@ This project detects and tracks objects (e.g., people or vehicles) in a video fe
 pip install -r requirements.txt
 ```
 
-### 3. Download a YOLOv5 Model
+### 3. Download a YOLO Model
 Get a YOLOv8vn PyTorch model 
 
 ## Usage
